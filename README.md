@@ -2,10 +2,10 @@
 - 👀 I’m interested in ...
     - ✨ Angular Webapps
     - ✨ Game Dev
-    - ✨ Unity
+    - ✨ Mobile Apps
 - 🌱 I’m currently learning ...
-    - ✨ How to build and deploy my own website
-- 💞️ I’m looking for a mentor to help me deploy to my purchased url
+    - ✨ How to make my website more dynamic and appealing
+- 💞️ I’m looking for a mentor to help me land a globally remote job
 - 📫 How to reach me ...
     - ✨ Insta: @LaynsLife_
 
