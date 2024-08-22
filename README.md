@@ -4,7 +4,8 @@
     - ✨ Game Dev
     - ✨ Mobile Apps
 - 🌱 I’m currently learning ...
-    - ✨ How to make my website more dynamic and appealing
+    - ✨ How to make my personal website more dynamic and appealing
+    - ✨ CSS animations
 - 💞️ I’m looking for a mentor to help me land a globally remote job
 - 📫 How to reach me ...
     - ✨ Insta: @LaynsLife_
