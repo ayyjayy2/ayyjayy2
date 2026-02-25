@@ -3,10 +3,9 @@
     - ✨ Angular Webapps
     - ✨ Game Dev
     - ✨ Mobile Apps
+    - ✨ Video Game Design
 - 🌱 I’m currently learning ...
-    - ✨ How to make my personal website more dynamic and appealing
-    - ✨ CSS animations
-- 💞️ I’m looking for a mentor to help me land a globally remote job
+    - ✨ Video Game Design
 - 📫 How to reach me ...
     - ✨ Insta: @LaynsLife_
 
