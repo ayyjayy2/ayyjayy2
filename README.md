@@ -13,6 +13,7 @@ A group trip planner that keeps the itinerary, flights, stays, costs and packing
 
 ## More projects
 
+- [Portfolio site](https://github.com/ayyjayy2/software-engineer-portfolio): my personal site, built with Angular 19, TypeScript and SCSS as an installable PWA · [alaynajohnston.tech](https://alaynajohnston.tech)
 - [Leaflets](https://github.com/ayyjayy2/leaflets): botanical-journal houseplant app (Expo, React Native, Firebase)
 - [Lo-Fi To-do](https://github.com/ayyjayy2/Lo-Fi-To-do): themed task manager with drag-and-drop (React, TypeScript, Tailwind)
 - [Persian Path](https://github.com/ayyjayy2/persian-path): Duolingo-inspired Persian learning web app
