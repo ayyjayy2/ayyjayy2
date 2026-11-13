@@ -2,7 +2,9 @@
 
 Software Engineer at Surescripts with 5+ years building production Java/Spring Boot services and Angular/TypeScript front ends in healthcare. Outside work, I build user-facing products, mostly for travelers.
 
-## Featured project: [The Itinerists](https://github.com/ayyjayy2/the-itinerists)
+## Featured project: [The Itinerists](https://theitinerists.com)
+
+> 🔒 The code is now private while The Itinerists gets ready to launch. [Sign up at theitinerists.com](https://theitinerists.com) to hear when it's out.
 
 A group trip planner that keeps the itinerary, flights, stays, costs and packing in one shared place.
 
